@@ -1,0 +1,1514 @@
+999
+********************************
+999
+*   DXF File - Entities Only   *
+999
+*        3D Data Format        *
+999
+*     Output from ENVISAGE     *
+999
+*     20-Jan-2023 14:43:21     *
+999
+********************************
+  0
+SECTION 
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$EXTMIN
+ 10
+735000.000
+ 20
+7636000.000
+ 30
+-1500.000
+  9
+$EXTMAX
+ 10
+747000.000
+ 20
+7648000.000
+ 30
+1500.000
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+APPID
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  2
+MAPTEK_VULCAN
+ 70
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+WAYS123
+ 62
+1
+ 66
+     1
+ 70
+     8
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_22
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 14-Jan-2023 21:51:16
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740879.411
+ 20
+7643085.818
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740883.187
+ 20
+7643103.739
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740898.644
+ 20
+7643117.331
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740920.400
+ 20
+7643125.826
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740941.770
+ 20
+7643127.281
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740943.670
+ 20
+7643105.359
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740948.130
+ 20
+7643088.417
+ 30
+179.718
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740972.218
+ 20
+7643075.526
+ 30
+178.350
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740984.144
+ 20
+7643070.625
+ 30
+177.129
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741004.199
+ 20
+7643054.828
+ 30
+174.889
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741014.054
+ 20
+7643046.674
+ 30
+173.968
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741038.976
+ 20
+7643011.235
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741061.644
+ 20
+7642976.919
+ 30
+166.205
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741096.362
+ 20
+7642935.152
+ 30
+161.100
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741105.105
+ 20
+7642932.611
+ 30
+159.986
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741124.019
+ 20
+7642923.047
+ 30
+158.876
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741156.927
+ 20
+7642925.789
+ 30
+156.351
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741183.451
+ 20
+7642930.652
+ 30
+154.492
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741196.282
+ 20
+7642931.932
+ 30
+153.537
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741228.459
+ 20
+7642939.062
+ 30
+150.086
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741253.138
+ 20
+7642955.088
+ 30
+147.413
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741264.415
+ 20
+7642965.501
+ 30
+145.897
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741277.449
+ 20
+7642980.431
+ 30
+144.665
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741289.076
+ 20
+7643009.271
+ 30
+141.616
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741295.911
+ 20
+7643017.532
+ 30
+140.825
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741298.051
+ 20
+7643026.223
+ 30
+140.067
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741296.171
+ 20
+7643069.985
+ 30
+140.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741283.940
+ 20
+7643078.714
+ 30
+140.000
+ 70
+    32
+  0
+SEQEND
+  8
+WAYS123
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+740879.411
+ 20
+7643085.818
+ 30
+180.000
+ 11
+740881.928
+ 21
+7643063.979
+ 31
+180.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_23
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 14-Jan-2023 21:52:22
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POLYLINE
+  8
+WAYS123
+ 62
+1
+ 66
+     1
+ 70
+     8
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_21
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 14-Jan-2023 21:49:17
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740759.836
+ 20
+7642996.011
+ 30
+140.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740778.331
+ 20
+7643043.218
+ 30
+140.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740765.945
+ 20
+7643109.075
+ 30
+146.090
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740754.580
+ 20
+7643121.433
+ 30
+147.649
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740737.318
+ 20
+7643136.655
+ 30
+148.661
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740728.354
+ 20
+7643143.508
+ 30
+149.513
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740716.561
+ 20
+7643152.321
+ 30
+150.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740653.372
+ 20
+7643158.556
+ 30
+156.313
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740627.021
+ 20
+7643157.391
+ 30
+156.376
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740629.708
+ 20
+7643115.772
+ 30
+157.932
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740620.557
+ 20
+7643095.267
+ 30
+160.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740622.253
+ 20
+7643069.525
+ 30
+162.560
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740616.875
+ 20
+7643022.093
+ 30
+166.835
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740627.538
+ 20
+7642984.861
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740645.483
+ 20
+7642943.103
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740677.632
+ 20
+7642912.052
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740704.034
+ 20
+7642891.581
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740738.485
+ 20
+7642888.545
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740801.001
+ 20
+7642888.557
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740815.612
+ 20
+7642883.990
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740831.115
+ 20
+7642914.871
+ 30
+170.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740838.638
+ 20
+7642961.576
+ 30
+171.305
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740843.176
+ 20
+7642972.499
+ 30
+173.256
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740860.017
+ 20
+7643001.557
+ 30
+176.387
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740871.880
+ 20
+7643034.944
+ 30
+179.976
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740881.928
+ 20
+7643063.979
+ 30
+180.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740906.640
+ 20
+7643043.006
+ 30
+182.011
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740915.806
+ 20
+7642987.144
+ 30
+186.234
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740910.783
+ 20
+7642949.380
+ 30
+190.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740910.015
+ 20
+7642933.327
+ 30
+191.136
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740917.921
+ 20
+7642913.974
+ 30
+193.251
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740935.964
+ 20
+7642884.134
+ 30
+200.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740977.616
+ 20
+7642858.315
+ 30
+204.213
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740990.699
+ 20
+7642838.336
+ 30
+206.650
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741013.741
+ 20
+7642797.362
+ 30
+210.000
+ 70
+    32
+  0
+SEQEND
+  8
+WAYS123
+  0
+POLYLINE
+  8
+WAYS123
+ 62
+1
+ 66
+     1
+ 70
+     8
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_1
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:07:21
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740935.964
+ 20
+7642884.134
+ 30
+200.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+740854.269
+ 20
+7643053.088
+ 30
+200.000
+ 70
+    32
+  0
+VERTEX
+  8
+WAYS123
+ 62
+1
+ 10
+741165.622
+ 20
+7643101.145
+ 30
+200.000
+ 70
+    32
+  0
+SEQEND
+  8
+WAYS123
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+740854.269
+ 20
+7643053.088
+ 30
+200.000
+ 11
+740666.249
+ 21
+7643038.576
+ 31
+200.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_2
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:07:36
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+740941.770
+ 20
+7643127.281
+ 30
+180.000
+ 11
+741220.978
+ 21
+7643101.080
+ 31
+180.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_3
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:09:32
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+740879.411
+ 20
+7643085.818
+ 30
+180.000
+ 11
+740706.615
+ 21
+7643009.163
+ 31
+180.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_4
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:10:00
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+740620.557
+ 20
+7643095.267
+ 30
+160.000
+ 11
+740730.290
+ 21
+7643058.836
+ 31
+160.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_5
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:12:07
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+LINE
+  8
+WAYS123
+ 62
+1
+ 10
+741105.105
+ 20
+7642932.611
+ 30
+159.986
+ 11
+741202.094
+ 21
+7643110.493
+ 31
+160.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=LINE_7
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=LINE digitising 20-Jan-2023 14:16:07
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+741202.094
+ 20
+7643110.493
+ 30
+160.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_8
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:41:58
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+741165.622
+ 20
+7643101.145
+ 30
+200.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_9
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:00
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+741220.978
+ 20
+7643101.080
+ 30
+180.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_10
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:02
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+740706.615
+ 20
+7643009.163
+ 30
+180.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_11
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:17
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+740666.249
+ 20
+7643038.576
+ 30
+200.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_12
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:27
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+740730.290
+ 20
+7643058.836
+ 30
+160.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_13
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:30
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+POINT
+  8
+WAYS123
+ 62
+1
+ 10
+740854.269
+ 20
+7643053.088
+ 30
+200.000
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=POINT_14
+1000
+VulcanGroup=
+1000
+VulcanValue=0
+1000
+VulcanDescription=POINT digitising 20-Jan-2023 14:42:38
+1000
+VulcanPrimitive=
+1000
+VulcanLine=0
+1000
+VulcanPattern=0
+1000
+VulcanFeature=
+  0
+ENDSEC
+  0
+EOF
